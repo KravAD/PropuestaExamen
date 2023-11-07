@@ -82,8 +82,8 @@ build PropuestaExamen.exe: CXX_EXECUTABLE_LINKER__PropuestaExamen_Debug CMakeFil
 
 build cmake_object_order_depends_target_archivo: phony || CMakeFiles/archivo.dir
 
-build CMakeFiles/archivo.dir/archivo_de_pruebas.cpp.obj: CXX_COMPILER__archivo_unscanned_Debug C$:/Users/krave/OneDrive/Documentos/GitHub/PropuestaExamen/archivo_de_pruebas.cpp || cmake_object_order_depends_target_archivo
-  DEP_FILE = CMakeFiles\archivo.dir\archivo_de_pruebas.cpp.obj.d
+build CMakeFiles/archivo.dir/archivo_pruebas.cpp.obj: CXX_COMPILER__archivo_unscanned_Debug C$:/Users/krave/OneDrive/Documentos/GitHub/PropuestaExamen/archivo_pruebas.cpp || cmake_object_order_depends_target_archivo
+  DEP_FILE = CMakeFiles\archivo.dir\archivo_pruebas.cpp.obj.d
   FLAGS = -g -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\archivo.dir
   OBJECT_FILE_DIR = CMakeFiles\archivo.dir
@@ -96,7 +96,7 @@ build CMakeFiles/archivo.dir/archivo_de_pruebas.cpp.obj: CXX_COMPILER__archivo_u
 #############################################
 # Link the executable archivo.exe
 
-build archivo.exe: CXX_EXECUTABLE_LINKER__archivo_Debug CMakeFiles/archivo.dir/archivo_de_pruebas.cpp.obj
+build archivo.exe: CXX_EXECUTABLE_LINKER__archivo_Debug CMakeFiles/archivo.dir/archivo_pruebas.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\archivo.dir
