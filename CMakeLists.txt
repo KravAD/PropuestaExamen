@@ -4,3 +4,4 @@ project(PropuestaExamen)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(PropuestaExamen main.cpp)
+add_executable(archivo archivo_de_pruebas.cpp)

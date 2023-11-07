@@ -15,7 +15,8 @@
 					"source" : ".",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
@@ -30,7 +31,8 @@
 					"name" : "PropuestaExamen",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
@@ -41,6 +43,13 @@
 					"id" : "PropuestaExamen::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-PropuestaExamen-Debug-04e51dbf48c144e46d4d.json",
 					"name" : "PropuestaExamen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "archivo::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-archivo-Debug-51d1fddb5863afd9fe3e.json",
+					"name" : "archivo",
 					"projectIndex" : 0
 				}
 			]

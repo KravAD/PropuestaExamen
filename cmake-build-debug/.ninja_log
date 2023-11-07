@@ -1,15 +1,7 @@
 # ninja log v5
-0	432	7210538640372356	CMakeFiles/PropuestaExamen.dir/main.cpp.obj	ea83246f2211da5f
-433	575	7210538641726761	PropuestaExamen.exe	6264a8aef114b884
-3	387	7210538840642899	CMakeFiles/PropuestaExamen.dir/main.cpp.obj	ea83246f2211da5f
-387	459	7210538841337182	PropuestaExamen.exe	6264a8aef114b884
-3	378	7210538990117330	CMakeFiles/PropuestaExamen.dir/main.cpp.obj	ea83246f2211da5f
-379	460	7210538990890127	PropuestaExamen.exe	6264a8aef114b884
-2	372	7210540314344180	CMakeFiles/PropuestaExamen.dir/main.cpp.obj	ea83246f2211da5f
-373	460	7210540315189006	PropuestaExamen.exe	6264a8aef114b884
-3	368	7210542690775754	CMakeFiles/PropuestaExamen.dir/main.cpp.obj	ea83246f2211da5f
-370	457	7210542691633450	PropuestaExamen.exe	6264a8aef114b884
-3	349	7210544338989981	CMakeFiles/PropuestaExamen.dir/main.cpp.obj	ea83246f2211da5f
-349	421	7210544339679658	PropuestaExamen.exe	6264a8aef114b884
-3	401	7210546998540446	CMakeFiles/PropuestaExamen.dir/main.cpp.obj	ea83246f2211da5f
-402	489	7210546999361816	PropuestaExamen.exe	6264a8aef114b884
+3	770	7210550735693855	CMakeFiles/PropuestaExamen.dir/main.cpp.obj	ea83246f2211da5f
+771	871	7210550736682202	PropuestaExamen.exe	6264a8aef114b884
+0	628	7210552834237871	CMakeFiles/archivo.dir/archivo_de_pruebas.cpp.obj	c340edd18b356524
+629	710	7210552835180585	archivo.exe	97ff84130415459a
+4	527	7210554069713022	CMakeFiles/archivo.dir/archivo_de_pruebas.cpp.obj	c340edd18b356524
+528	686	7210554071323164	archivo.exe	97ff84130415459a
