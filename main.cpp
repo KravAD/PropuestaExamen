@@ -1,27 +1,15 @@
-// Encontrar triples pitagoricos
 #include <iostream>
 #include <cmath>
-using namespace std;
-int a, b;
-void encontrar_triples_pitagoricos(){
-    for (int a; a < 20;){
-        for (int b; b < 20;){
-            for (int c; c < 20;){
-                if (sqrt(a^2 + b^2) == c){
-                    cout << a << " " << b << " " << c << endl;
-                }
+
+int main() {
+    int max_value = 20;
+    for (int a = 1; a <= max_value; a++) {
+        for (int b = a; b <= max_value; b++) {
+            double c = sqrt(a*a + b*b);
+            if (c == (int)c) {
+                std::cout << "Triple pitagórico encontrado: " << a << ", " << b << ", " << (int)c << std::endl;
             }
         }
     }
-}
-
-
-
-int main() {
-    cout << "a: " << endl;
-    cin >> a;
-    cout << "b: " << endl;
-    cin >> b;
-       encontrar_triples_pitagoricos();
     return 0;
 }
